@@ -1,5 +1,7 @@
 # AI Clinical Note Summarizer
 
+![Application Screenshot](App_Screenshot.png)
+
 An AI-powered healthcare application that summarizes clinical notes using OpenAI and Streamlit.
 
 ## Features
